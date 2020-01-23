@@ -1,6 +1,6 @@
 # code-test
 
-## Build a Tooltip component (React or Preact)
+## Build a Tooltip component (React, Preact, Vue.js or Svelte)
 
 - Free to use any tools required at your disposable
 - Would be good to include some linting tools like eslint and stylelint etc.
