@@ -7,7 +7,7 @@
 - No tests are required due to the timing constraint
 - Keep the code clean, concise, elegant, robust and efficient as possible
 - Please also take accessibility into consideration if time allows it
-- Minimum browser support, IE11+, iOS 9+
+- Minimum browser support, IE11+, iOS 10+
 
 ### Specs:
 - On a client without a mouse, the tooltip should be activated on tap only, it can be deactivated on scroll or tapping outside of the tooltip
