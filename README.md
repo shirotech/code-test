@@ -1,5 +1,7 @@
 # code-test
 
+> **Please do not fork this repo for your solution**
+
 ## Build a Tooltip component (React, Preact, Vue.js or Svelte)
 
 - Please avoid any boilerplates or template starters/generators etc.
