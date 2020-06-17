@@ -1,6 +1,6 @@
 # code-test
 
-## Build a Tooltip component (React or Preact)
+## Build a Tooltip component (React, Preact, Vue.js or Svelte)
 
 - Please avoid any boilerplates or template starters/generators etc.
 - It should be re-usable as much as possible, i.e. a tooltip can be attached to anything
