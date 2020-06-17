@@ -2,7 +2,8 @@
 
 ## Build a Tooltip component (React or Preact)
 
-- Free to use any tools required at your disposable
+- Please avoid any boilerplates or template starters/generators etc.
+- It should be re-usable as much as possible, i.e. a tooltip can be attached to anything
 - Would be good to include some linting tools like eslint and stylelint etc.
 - No tests are required due to the timing constraint
 - Keep the code clean, concise, elegant, robust and efficient as possible
