@@ -5,6 +5,7 @@
 ## Build a Tooltip component (React, Preact, Vue.js or Svelte)
 
 - Please avoid any boilerplates or template starters/generators etc.
+- It should be re-usable as much as possible, i.e. a tooltip can be attached to anything
 - Would be good to include some linting tools like eslint and stylelint etc.
 - No tests are required due to the timing constraint
 - Keep the code clean, concise, elegant, robust and efficient as possible
