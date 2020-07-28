@@ -6,11 +6,16 @@
 
 - Please avoid any boilerplates or template starters/generators etc.
 - It should be re-usable as much as possible, i.e. a tooltip can be attached to anything
-- Would be good to include some linting tools like eslint and stylelint etc.
-- No tests are required due to the timing constraint
 - Keep the code clean, concise, elegant, robust and efficient as possible
-- Please also take accessibility into consideration if time allows it
+- Add animations and/or transitions when the tooltip appears and disappear
+- Make use of advanced sass/scss features
+
+### Bonus points
+
 - Minimum browser support, IE11+, iOS 10+
+- Would be good to include some linting tools like eslint and stylelint etc.
+- Please also take accessibility into consideration if time allows it
+- No tests are required due to the timing constraint, but feel free to add some
 
 ### Specs:
 - On a client without a mouse, the tooltip should be activated on tap only, it can be deactivated on scroll or tapping outside of the tooltip
